@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14557622131",
+    "firebase_url": "https://mom-s-kitchen-e710a.firebaseio.com",
+    "project_id": "mom-s-kitchen-e710a",
+    "storage_bucket": "mom-s-kitchen-e710a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14557622131:android:9f02c19164698c8bdedf06",
+        "android_client_info": {
+          "package_name": "com.bangaram.homefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14557622131-r0pmojl92dh8efc3nesdnon3gjahgtql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangaram.homefood",
+            "certificate_hash": "1513136380b2f19969575ebc12acddc539d5dbb7"
+          }
+        },
+        {
+          "client_id": "14557622131-qbcb38gv5fpp16pn26gpguvt3iohgmu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTLABhhI6IJQ867ba-w1uuKZ6xuoBoGsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14557622131-qbcb38gv5fpp16pn26gpguvt3iohgmu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeFood</string>
+    <string name="title_activity_home_screen">Map</string>
+    <string name="facebook_app_id">273231027012481</string>
+    <string name="fb_login_protocol_scheme">fb273231027012481</string>
+
+</resources>
